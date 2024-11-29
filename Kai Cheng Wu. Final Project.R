@@ -1,16 +1,6 @@
-## Final Project Template
+##  Project- Predicting Total Wealth
 ## Name: Kai Cheng Wu
 
-## This template covers what was done in TA Session 9.
-## You can use this as a starting point for your final project.
-## It includes the following:
-##   1. Loading in the dataset
-##   2. Exploratory data analysis
-##   3. Removing some outliers
-##   4. Training three models and comparing their MSE
-##   5. Using K-fold CV to compare the MSPE
-##   6. Trainig the model which is deemed best on the whole dataset
-##   7. Using that model to make predictions
 
 
 ## ---------------------------------------------------------
