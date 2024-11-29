@@ -1,4 +1,4 @@
-##  Project- Predicting Total Wealth
+##  Project- Predicting Total Wealth in United States
 ## Name: Kai Cheng Wu
 
 
